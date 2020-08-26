@@ -1,0 +1,12 @@
+.main {
+  background-color: pink;
+}
+.main .title {
+  color: blue;
+}
+.main .content {
+  color: green;
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=prueba.css.map */
